@@ -53,5 +53,8 @@ Estudo as áreas de back-end e data science. Sempre buscando mais!
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50px" alt="git-icon" title="Git"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50px" alt="github-icon" title="GitHub"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50px" alt="linux-icon" title="Linux"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50px" alt="c-icon" title="C"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="50px" 
+        alt="rust-icon" title="Rust"/>&nbsp;
     </div>
 </div>
