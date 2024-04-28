@@ -16,9 +16,7 @@ Estudo as áreas de back-end e data science. Sempre buscando mais!
         <a href="https://www.linkedin.com/in/matheuscgarcia/" target="_blank"><img src="icons/linkedin-icon.png" width="30px" alt="linkedin-icon" title="Linkedin"></a>&nbsp;
         <a href="https://www.instagram.com/maatheus.dev/" target="_blank"><img src="icons/instagram-icon.png" width="30px" alt="instagram-icon" title="Instagram"></a>&nbsp;
     </div>
-
     <h3>🧠 Stacks</h3>
-    
     <h5>IDE</h5>
     <div>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30px" alt="vscode-icon" title="Visual Studio Code"/>&nbsp;
