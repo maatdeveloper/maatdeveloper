@@ -1,7 +1,7 @@
 # Olá 🖖, me chamo Matheus
 
 <div align="center">
-    <p>Este perfil é para estudo de novas técnologias e projetos pessoais! para acessar meu perfil profissional<a href="https://github.com/maatheuscg">clique aqui</a></p>
+    <p>Este perfil é para estudo de novas técnologias e projetos pessoais! para acessar meu perfil profissional clique 👉 <a href="https://github.com/maatheuscg">aqui</a></p>
     <img src="icons/rust-happy.gif"  width="300px" alt="Rust gif" title="Seja bem-vindo!">
 </div>
 
@@ -42,5 +42,16 @@ Estudo as áreas de back-end e data science. Sempre buscando mais!
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="50px" alt="numpy-icon" title="NumPy"/>&nbsp;
         <img src="icons/excel-icon.png" width="50px" alt="excel-icon" title="Excel">&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="50px" alt="jupyter-icon" title="Jupyter"/>&nbsp;
+    </div>
+    <h5>DATABASES</h5>
+    <div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="50px" alt="sqlite3-icon" title="SQLite 3"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50px" alt="mysql-icon" title="MySQL"/>&nbsp; 
+    </div>
+    <h5>OTHERS</h5>
+    <div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50px" alt="git-icon" title="Git"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50px" alt="github-icon" title="GitHub"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50px" alt="linux-icon" title="Linux"/>&nbsp;
     </div>
 </div>
