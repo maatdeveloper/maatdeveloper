@@ -17,31 +17,18 @@ Estudo as áreas de back-end e data science. Sempre buscando mais!
         <a href="https://www.instagram.com/maatheus.dev/" target="_blank"><img src="icons/instagram-icon.png" width="30px" alt="instagram-icon" title="Instagram"></a>&nbsp;
     </div><hr>
     <h3>🧠 Stacks</h3>
-    <h5>IDE</h5>
+    <h5>Principais linguagens</h5>
     <div>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50px" alt="vscode-icon" title="Visual Studio Code"/>&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="50px" alt="intellij-icon" title="IntelliJ"/>&nbsp;
-    </div>
-    <h5>FRONTEND</h5>
-    <div>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="50px" alt="html5-icon" title="HTML5"/>&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="50px" alt="css3-icon" title="CSS3"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50px" alt="pytho-icon" title="Python"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50px" alt="java-logo" title="Java"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px" alt="javascript-icon" title="JavaScript"/>&nbsp;
     </div>
-    <h5>BACKEND</h5>
+    <h5>Outras linguagens</h5>
     <div>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50px" alt="pytho-icon" title="Python"/>&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="50px" alt="django-icon" title="Django"/>&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50px" alt="java-logo" title="Java"/>&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50px" alt="springboot-icon" title="Spring Boot"/>&nbsp;
-    </div>
-    <h5>DATASCIENCE</h5>
-    <div>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50px" alt="pytho-icon" title="Python"/>&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="50px" alt="pandas-icon" title="Pandas"/>&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="50px" alt="numpy-icon" title="NumPy"/>&nbsp;
-        <img src="icons/excel-icon.png" width="50px" alt="excel-icon" title="Excel">&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="50px" alt="jupyter-icon" title="Jupyter"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50px" alt="c-icon" title="C"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width=50px alt="c#-icon" title="C#"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="50px" 
+        alt="rust-icon" title="Rust"/>&nbsp;
     </div>
     <h5>DATABASES</h5>
     <div>
@@ -53,8 +40,6 @@ Estudo as áreas de back-end e data science. Sempre buscando mais!
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50px" alt="git-icon" title="Git"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50px" alt="github-icon" title="GitHub"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50px" alt="linux-icon" title="Linux"/>&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50px" alt="c-icon" title="C"/>&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="50px" 
-        alt="rust-icon" title="Rust"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50px" alt="postman-icon" title="Postman"/>&nbsp;
     </div>
 </div>
