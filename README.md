@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre mim
 Faço o curso de Análise e Desenvolvimento de Sistemas na Uniamérica.
-Estudo as áreas de back-end e data science. Sempre buscando mais!
+Estudo as áreas de system programming, back-end e data science. Sempre buscando mais!
 
 <div align="center">
     <div>
@@ -15,10 +15,17 @@ Estudo as áreas de back-end e data science. Sempre buscando mais!
         <a href="https://www.linkedin.com/in/matheuscgarcia/" target="_blank"><img src="icons/linkedin-icon.png" width="30px" alt="linkedin-icon" title="Linkedin"></a>&nbsp;
         <a href="https://www.instagram.com/maatheus.dev/" target="_blank"><img src="icons/instagram-icon.png" width="30px" alt="instagram-icon" title="Instagram"></a>&nbsp;
     </div><hr>
-    <h5>LINGUAGENS</h5>
+    <h5>LINGUAGENS PRINCIPAIS</h5>
     <div>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="50px" alt="rust-icon" title="Rust"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50px" alt="java-logo" title="Java"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+        width="50px" alt="php-logo" title="PHP"/>&nbsp;
+    </div>
+    <h5>OUTRAS LINGUAGENS</h5>
+    <div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+        width="50px" alt="c-logo" title="C"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50px" alt="pytho-icon" title="Python"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px" alt="javascript-icon" title="JavaScript"/>&nbsp;
     </div>
