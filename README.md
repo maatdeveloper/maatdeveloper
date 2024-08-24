@@ -1,9 +1,3 @@
-# Olá 🖖, me chamo Matheus
-
-<div align="center">
-    <img src="icons/rust-happy.gif"  width="300px" alt="Rust gif" title="Seja bem-vindo!">
-</div>
-
 ## 🚀 Sobre mim
 Faço o curso de Análise e Desenvolvimento de Sistemas na Uniamérica.
 Estudo as áreas de system programming, back-end e data science. Sempre buscando mais!
@@ -20,13 +14,15 @@ Estudo as áreas de system programming, back-end e data science. Sempre buscando
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="50px" alt="rust-icon" title="Rust"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
         width="50px" alt="c-logo" title="C"/>&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50px" alt="pytho-icon" title="Python"/>&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px" alt="javascript-icon" title="JavaScript"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50px" alt="cpp-logo" title="C++"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50px" alt="csharp-icon" title="C#"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50px" alt="java-icon" title="Java"/>&nbsp;
     </div>
     <h5>DATABASES</h5>
     <div>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="50px" alt="sqlite3-icon" title="SQLite 3"/>&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50px" alt="mysql-icon" title="MySQL"/>&nbsp; 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50px" alt="mysql-icon" title="MySQL"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver-icon" title="SQL Server"/>&nbsp;
     </div>
     <h5>OTHERS</h5>
     <div>
