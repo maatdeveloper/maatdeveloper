@@ -22,7 +22,7 @@ Estudo as áreas de system programming, back-end e data science. Sempre buscando
     <div>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="50px" alt="sqlite3-icon" title="SQLite 3"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50px" alt="mysql-icon" title="MySQL"/>&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" widht="50px" alt="sqlserver-icon" title="SQL Server"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50px" alt="sqlserver-icon" title="SQL Server"/>&nbsp;
     </div>
     <h5>OTHERS</h5>
     <div>
