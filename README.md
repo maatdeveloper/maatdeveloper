@@ -22,7 +22,7 @@ Olá todos! Me chamo Matheus e tenho 20 anos. Começei com a tecnologia quando c
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="60px" alt="spring-icon"></img>
     </div><br>
     </div class="ruby">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" width="60px" alt="ruby-icon"></img>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" width="60px" alt="ruby-icon"></img>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg" width="60px" alt="rails-icon"></img>
     </div>
 </div>
